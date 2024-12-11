@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cseresznye_ew7ai2", "cseresznye_ew7ai2\cseresznye_ew7ai2.csproj", "{5EB05CC9-529E-49BA-9BF5-8DF99C61B85F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCseresznye", "FormCseresznye\FormCseresznye.csproj", "{01ED2BDD-3D9A-4D3D-A03C-B977444C1CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB05CC9-529E-49BA-9BF5-8DF99C61B85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB05CC9-529E-49BA-9BF5-8DF99C61B85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB05CC9-529E-49BA-9BF5-8DF99C61B85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB05CC9-529E-49BA-9BF5-8DF99C61B85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01ED2BDD-3D9A-4D3D-A03C-B977444C1CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ED2BDD-3D9A-4D3D-A03C-B977444C1CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ED2BDD-3D9A-4D3D-A03C-B977444C1CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ED2BDD-3D9A-4D3D-A03C-B977444C1CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC5BFFB-8715-4835-A7ED-DEA96D54C669}
+	EndGlobalSection
+EndGlobal
